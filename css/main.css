@@ -1,7 +1,48 @@
 * {
-    border: 1px solid red !important;
+    /*border: 1px solid blue !important;
+    
     font-family: 'Amarante';
-/*    font-size: 22px;*/
+
+    /*    font-size: 22px;*/
+}
+
+/*.img-big{
+    width: 550px;
+    height: auto;
+}
+*/
+.img-potato {
+    width: 130px;
+    height: auto;
+    border-radius: 50%;
+}
+
+/*.img-amazing {
+    width: 550px;
+    height: auto;
+}
+
+.img-awesome {
+    width: 130px;
+    height: auto;
+}
+
+.img-potato {
+    width: 130px;
+    height: auto;
+}
+
+
+
+
+
+*/
+hr {
+    border: none;
+    height: 6px;
+    /* Set the hr color */
+    color: #0000FF; /* old IE */
+    background-color: #0000FF; /* Modern Browsers */
 }
 
 * {
@@ -15,6 +56,7 @@
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;
+    font-family: 'Amarante';
 }
 
 .row {
